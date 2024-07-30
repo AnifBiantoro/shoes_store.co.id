@@ -1,1 +1,1 @@
-# marcella.shoes_store.co.id
+# shoes_store.co.id
